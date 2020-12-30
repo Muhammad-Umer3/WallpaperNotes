@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344280127736",
+    "project_id": "wallpapernotes-9c076",
+    "storage_bucket": "wallpapernotes-9c076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344280127736:android:d17c798764a1c6708f030d",
+        "android_client_info": {
+          "package_name": "com.muhammad.umer.wallpapernotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344280127736-bmev7tfimluj50jkd115c159nb5853cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADdigDmq2iPbGIvAl9FyZchsrbM4reuKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344280127736-bmev7tfimluj50jkd115c159nb5853cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
